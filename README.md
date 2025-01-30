@@ -1,4 +1,5 @@
-Custom Report Plugin for Moodle 4.5
+Custom Report Plugin for Moodle
+(Tested with Moodle 4.5)
 
 Overview
 
@@ -39,28 +40,28 @@ Usage
 
 Generating Reports
 
-Log in as a teacher or admin.
-
-Navigate to the course for which you want to generate a report.
-
-Access the Custom Reports section under the course menu.
-
-Configure the report parameters (e.g., student name, date range, course completion criteria).
-
-Generate and download the report in your desired format (e.g., PDF or CSV).
+	Log in as a teacher or admin.
+	
+	Navigate to the course for which you want to generate a report.
+	
+	Access the Custom Reports section under the course menu.
+	
+	Configure the report parameters (e.g., student name, date range, course completion criteria).
+	
+	Generate and download the report in your desired format (e.g., PDF or CSV).
 
 
 
 
 Customization
-
-You can customize the plugin settings and report templates:
-
-Go to Site Administration > Plugins > Local Plugins > Custom Report.
-
-Adjust the settings to match your institution's reporting needs.
-
-Development
+	
+	You can customize the plugin settings and report templates:
+	
+	Go to Site Administration > Plugins > Local Plugins > Custom Report.
+	
+	Adjust the settings to match your institution's reporting needs.
+	
+	Development
 
 
 
